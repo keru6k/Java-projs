@@ -1,4 +1,3 @@
-package loginTest;
 import java.util.*;
 
 public class register {
@@ -40,6 +39,3 @@ public class register {
 		reg();
 	}
 }
-
-
-
