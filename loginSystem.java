@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class register {
+public class loginSystem {
 	public static void reg() {
 		Scanner regScan = new Scanner(System.in);
 		
